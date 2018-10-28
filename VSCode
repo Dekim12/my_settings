@@ -1,0 +1,32 @@
+//settings
+{
+  "liveServer.settings.donotShowInfoMsg": true,
+  "workbench.iconTheme": "material-icon-theme",
+  "explorer.confirmDelete": false,
+  "emmet.triggerExpansionOnTab": true,
+  "editor.acceptSuggestionOnEnter": "off",
+  "workbench.sideBar.location": "left",
+  "editor.minimap.enabled": false,
+  "workbench.colorTheme": "Visual Studio Dark",
+  "editor.formatOnSave": true,
+  "prettier.eslintIntegration": true,
+  "prettier.stylelintIntegration": true,
+  "typescript.validate.enable": true,
+  "prettier.singleQuote": true,
+  "files.autoSave": "onFocusChange",
+  "git.enabled": false,
+  "window.zoomLevel": 0,
+  "editor.tabSize": 2,
+  "editor.detectIndentation": false
+}
+
+//plagins
+ESLint
+indent-rainbow
+Bracket Pair Colorizer
+Live Server
+Material Icon Theme
+Prettier
+EditorConfig
+Sass
+Browser Sync
