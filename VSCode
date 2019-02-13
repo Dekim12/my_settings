@@ -14,19 +14,27 @@
   "typescript.validate.enable": true,
   "prettier.singleQuote": true,
   "files.autoSave": "onFocusChange",
-  "git.enabled": false,
   "window.zoomLevel": 0,
+  "prettier.tabWidth": 2,
+  "editor.autoClosingBrackets": "always",
+  "editor.autoClosingQuotes": "always",
   "editor.tabSize": 2,
-  "editor.detectIndentation": false
+  "editor.detectIndentation": false,
+  "terminal.integrated.rendererType": "dom",
+  "prettier.endOfLine": "lf"
 }
 
 //plagins
 ESLint
+Git History
+GitLens — Git supercharged
 indent-rainbow
 Bracket Pair Colorizer
 Live Server
 Material Icon Theme
 Prettier
 EditorConfig
-Sass
+Code Spell Checker
 Browser Sync
+vscode-faker
+Russian Language Pack for Visual Studio Code
