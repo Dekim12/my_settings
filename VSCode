@@ -1,27 +1,37 @@
 //settings
-{
-  "liveServer.settings.donotShowInfoMsg": true,
+{  
+  "workbench.colorTheme": "Visual Studio Dark",
+  "editor.fontSize": 16,
+  "window.menuBarVisibility": "toggle",
   "workbench.iconTheme": "material-icon-theme",
   "explorer.confirmDelete": false,
   "emmet.triggerExpansionOnTab": true,
-  "editor.acceptSuggestionOnEnter": "off",
+  "terminal.integrated.rendererType": "dom",
   "workbench.sideBar.location": "left",
-  "editor.minimap.enabled": false,
-  "workbench.colorTheme": "Visual Studio Dark",
-  "editor.formatOnSave": true,
-  "prettier.eslintIntegration": true,
-  "prettier.stylelintIntegration": true,
   "typescript.validate.enable": true,
-  "prettier.singleQuote": true,
   "files.autoSave": "onFocusChange",
   "window.zoomLevel": 0,
-  "prettier.tabWidth": 2,
   "editor.autoClosingBrackets": "always",
   "editor.autoClosingQuotes": "always",
   "editor.tabSize": 2,
   "editor.detectIndentation": false,
-  "terminal.integrated.rendererType": "dom",
-  "prettier.endOfLine": "lf"
+  "editor.minimap.enabled": false,
+  "editor.acceptSuggestionOnEnter": "off",
+  "editor.formatOnSave": true,
+  "prettier.endOfLine": "lf",
+  "prettier.eslintIntegration": true,
+  "prettier.tabWidth": 2,
+  "prettier.singleQuote": true,
+  "prettier.stylelintIntegration": true,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+  "javascript.preferences.quoteStyle": "single",
+  "prettier.jsxSingleQuote": true,
+  "html.format.wrapLineLength": 100,
+  "prettier.printWidth": 80,
+  "explorer.confirmDragAndDrop": false,
+  "workbench.editor.enablePreview": false,
+  "diffEditor.ignoreTrimWhitespace": true
 }
 
 //plagins
@@ -38,3 +48,14 @@ Code Spell Checker
 Browser Sync
 vscode-faker
 Russian Language Pack for Visual Studio Code
+Auto Rename Tag
+Code Spell Checker
+Highlight Matching Tag
+indent-rainbow
+indent-rainbow
+npm 
+npm Intellisense
+Path Intellisense
+VSC-Prolog
+VSC-Prolog
+
