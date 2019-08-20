@@ -1,1 +1,1 @@
-all my settings
+All my settings
