@@ -1,6 +1,7 @@
 //settings
 {
   "editor.fontSize": 16,
+  "workbench.activityBar.visible": false,
   "window.menuBarVisibility": "toggle",
   "workbench.iconTheme": "material-icon-theme",
   "explorer.confirmDelete": false,
@@ -72,7 +73,7 @@ Polacode
 React Native Tools
 Javascript Code Snippets
 ES7 React/Redux/GraphQL/React-Native snippets
-
+REST client
 
 
 
