@@ -47,6 +47,7 @@
   "workbench.startupEditor": "newUntitledFile",
   "workbench.activityBar.visible": false,
   "workbench.colorTheme": "Visual Studio Dark",
+  "prettier.trailingComma": "all",
   "gitlens.advanced.messages": {
     "suppressCommitHasNoPreviousCommitWarning": true
   }
