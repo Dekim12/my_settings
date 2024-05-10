@@ -1,0 +1,109 @@
+{
+  //UI
+  "window.menuBarVisibility": "toggle",
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+  "workbench.editor.enablePreview": false,
+  "workbench.startupEditor": "newUntitledFile",
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.colorTheme": "Dracula",
+  "extensions.ignoreRecommendations": false,
+  "redhat.telemetry.enabled": true,
+  "workbench.editorAssociations": {
+    "*.cer": "default",
+    "*.xlsx": "default",
+    "*.csv": "default"
+  },
+  "material-icon-theme.files.color": "#42a5f5",
+
+  //Editor
+  "editor.autoClosingBrackets": "always",
+  "editor.autoClosingQuotes": "always",
+  "editor.tabSize": 2,
+  "editor.detectIndentation": false,
+  "editor.minimap.enabled": false,
+  "editor.acceptSuggestionOnEnter": "off",
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.indentSize": "tabSize",
+  "editor.suggestSelection": "first",
+  "editor.fontSize": 15,
+  "editor.fontFamily": "JetBrainsMono Nerd Font, Fira Code, PragmataPro Mono Liga, Anonymous Pro, Hack,  Space Mono, Menlo, Monaco, 'Courier New', monospace",
+  "editor.fontWeight": "500",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit",
+    "source.fixAll": "explicit"
+    // "source.organizeImports": "explicit"
+  },
+  "files.autoSave": "onFocusChange",
+  "files.eol": "\n",
+
+  //Terminal
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "terminal.integrated.defaultProfile.linux": "zsh",
+  "terminal.external.osxExec": "Alacritty.app",
+  "terminal.integrated.defaultProfile.osx": "zsh",
+  "security.workspace.trust.untrustedFiles": "open",
+  "terminal.integrated.fontFamily": "Fira Code, PragmataPro Mono Liga, Hack",
+  "terminal.integrated.fontSize": 14,
+  "terminal.integrated.fontWeightBold": "bold",
+  "terminal.integrated.scrollback": 2000,
+  "terminal.integrated.persistentSessionScrollback": 500,
+
+  //JavaScript & TypeScript
+  "typescript.validate.enable": true,
+  "javascript.preferences.importModuleSpecifier": "non-relative",
+  "javascript.validate.enable": false,
+  "javascript.format.enable": false,
+  "javascript.preferences.quoteStyle": "single",
+  "prettier.endOfLine": "lf",
+  "prettier.tabWidth": 2,
+  "prettier.singleQuote": true,
+  "prettier.jsxSingleQuote": true,
+  "prettier.printWidth": 100,
+  // "prettier.endOfLine": "auto",
+  // "prettier.eslintIntegration": true,
+  // "prettier.trailingComma": "all",
+  "emmet.triggerExpansionOnTab": true,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "tailwindCSS.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "errorLens.excludeBySource": ["eslint(react-hooks/exhaustive-deps)"],
+
+  //Git
+  "git.autofetch": true,
+  "gitlens.advanced.messages": {
+    "suppressCommitHasNoPreviousCommitWarning": true
+  },
+
+  //JSON
+  "[jsonc]": {
+    "editor.quickSuggestions": {
+      "strings": true
+    },
+    "editor.suggest.insertMode": "replace",
+    "gitlens.codeLens.scopes": ["document"]
+  },
+
+  //Golang
+  "[go]": {
+    "editor.insertSpaces": false,
+    "editor.defaultFormatter": "golang.go"
+  },
+
+  //Kotlin
+  "kotlin.languageServer.enabled": false,
+  "kotlin.debugAdapter.enabled": false,
+
+  //Extensions
+  "liveServer.settings.donotShowInfoMsg": true,
+  "CodeGPT.apiKey": "CodeGPT Plus",
+  "CodeGPT.model": "CodeGPT Plus",
+  "projectManager.git.baseFolders": ["D:\\work\\suvoda"],
+  "editor.cursorBlinking": "smooth",
+  "editor.autoClosingOvertype": "always"
+  // New settings
+}

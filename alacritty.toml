@@ -1,0 +1,26 @@
+[env]
+
+[window]
+padding.x = 7
+padding.y = 7
+
+position = {x = 450, y = 250}
+
+dimensions.columns = 105
+dimensions.lines = 30
+
+# decorations = "Buttonless"
+option_as_alt = "Both" 
+
+
+[font]
+normal.family = "JetBrains Mono"
+size = 16
+offset.y = 1
+
+[cursor]
+style = {shape = "Beam", blinking = "Always"}
+
+[colors]
+primary.background = "#11121D"
+primary.foreground = "#DCDFEE"

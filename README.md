@@ -1,1 +1,1 @@
-All my settings
+All my configs and settings
